@@ -8,7 +8,10 @@ My Interests:
 * Scraping
 * Low level programming
 * Cybersecurity
-:laptop Skills
+
+💻 Skills
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <!--
 **hhgsx/hhgsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
