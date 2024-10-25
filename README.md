@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+I am a second year student
+
+My Interests:
+* Linux
+* Scraping
+* Low level programming
+* Cybersecurity
+
 <!--
 **hhgsx/hhgsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
