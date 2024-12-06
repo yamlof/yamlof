@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Edwin Igbinoba
 
 
 I am a second year student
