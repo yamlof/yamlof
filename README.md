@@ -9,15 +9,6 @@ My Interests:
 * Low level programming
 * Cybersecurity
 
-<div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=hhgsx&count_private=true&show_icons=true&theme=prussian" width="400"><br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhgsx&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
-
-
-
-
-
-
-💻 Skills
-
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -26,6 +17,17 @@ My Interests:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
+
+
+
+<div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=hhgsx&count_private=true&show_icons=true&theme=prussian" width="400"><br />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhgsx&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
+
+
+
+
+
+
+💻 Skills
 
 
 <!--
