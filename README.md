@@ -9,7 +9,7 @@ My Interests:
 * Low level programming
 * Cybersecurity
 
-💻 Skills
+💻 Languages
 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,6 +20,14 @@ My Interests:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </span>
+
+Technologies & Tools
+<span>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</span>
+
+
+
 
 
 
