@@ -9,9 +9,12 @@ My Interests:
 * Low level programming
 * Cybersecurity
 
-Follow 
-  <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+Follow
+
+<span>
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff">
+</span>
 
 💻 Languages
 
@@ -31,33 +34,30 @@ Technologies & Tools
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=rider&logoColor=fff">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B">
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
-  <img src="https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff">
-  
-  Frameworks
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-  
-  
- 
-
-  <img src="">
-  <img src="">
-  <img src="">
-
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff">
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff">
+  <img src="https://img.shields.io/badge/Wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=fff">
 
 </span>
+
+Frameworks
+<span>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</span>
+
+
+
 
 
 
