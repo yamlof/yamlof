@@ -7,7 +7,6 @@ My Interests:
 * Linux
 * I'm currently learning Kotin
 * Low level programming
-* Game Development
 
 Follow
 
@@ -29,8 +28,11 @@ Follow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40" ></img>
+
 </span>
 
+
+<!--
 <p style="font-family: 'Nunito', sans-serif ; font-size: 18px;">
 TECHNOLOGIES
 </p>
@@ -43,7 +45,7 @@ TECHNOLOGIES
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/>
     
 </span>
-
+-->
 <p style="font-family: 'Nunito', sans-serif; font-size: 18px;">
 CLOUD PLATFORMS
 </p>
