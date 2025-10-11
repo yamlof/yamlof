@@ -17,7 +17,7 @@ Follow
 
 ---
 
-TECH STACK
+## 💻 TECH STACK
 
 - **Languages**: Python, Kotlin, Java, Javascript, C
 - **Frameworks**: Flask, TailwindCSS, Ktor, Jetpack Compose, Spring
@@ -25,8 +25,7 @@ TECH STACK
 - **Tools and Technologies**: Git, Docker, Postman, Intellij, Neovim
 
 ---
-
-PROJECTS
+## 🚀 Projects
 
 - [**Yomu**](https://github.com/yamlof/Yomu):
   A Manga Reader made in Kotlin MultiPlatform.
